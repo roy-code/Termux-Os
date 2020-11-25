@@ -6,9 +6,9 @@ $ apt update
 
 $ apt install git -y
 
-$ git clone https://github.com/HackWeiser360/Parrot-Shell.git
-
-$ cd Parrot-Shell
+$ git clone 
+https://github.com/roy-code/Termux-Os/edit/main/README.md
+$ cd Termux-Os
 
 $ chmod +x *
 
