@@ -21,5 +21,6 @@ exit
 =================
 ### Author: Mrroy
 Follow on Instagram:shrayduan
-
+# Please make sure that you Are Enable Http / port forwarding when you runninng this script..
+# This tool a os Version that make you terminal have multi function ,so need to run as super user
 
